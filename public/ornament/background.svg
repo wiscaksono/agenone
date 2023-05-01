@@ -1,0 +1,15 @@
+<svg width="1440" height="1120" viewBox="0 0 1440 1120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.05" x="1" y="548" width="179" height="180" fill="white"/>
+<rect opacity="0.05" x="360.5" y="368" width="179" height="180" fill="white"/>
+<rect opacity="0.05" x="1259.5" y="368" width="179" height="180" fill="white"/>
+<rect opacity="0.05" x="900" y="548.5" width="179" height="180" fill="white"/>
+<rect opacity="0.05" x="900" y="907.5" width="179" height="180" fill="white"/>
+<rect opacity="0.05" x="540" y="1088.5" width="179" height="180" fill="white"/>
+<path d="M0.489289 -23.9998L0.489239 1120M180.303 -23.9998L180.303 1120M360.117 -23.9998L360.117 1120M539.931 -23.9998L539.931 1120M719.745 -23.9998L719.745 1120M899.558 -23.9998L899.558 1120M1079.37 -23.9998L1079.37 1120M1259.19 -23.9998L1259.19 1120M1439 -23.9998L1439 1120M0 1088.01H1438.51M0 908.034L1438.51 908.034M0 728.053L1438.51 728.053M0 548.073L1438.51 548.073M0 368.093L1438.51 368.093M0 188.112L1438.51 188.112M0 8.13194L1438.51 8.132" stroke="url(#paint0_linear_147_1179)" stroke-opacity="0.3"/>
+<defs>
+<linearGradient id="paint0_linear_147_1179" x1="612" y1="1216" x2="460" y2="35.5003" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
